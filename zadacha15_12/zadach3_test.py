@@ -1,5 +1,5 @@
 import unittest
-from list16 import get_extention
+from zadacha3 import get_extention
 
 
 class Extensions (unittest.TestCase):
